@@ -25,7 +25,7 @@ Please [download and install Anaconda](https://www.anaconda.com/) on your laptop
 
 ### Topics to be covered:  
 
-#### 1. Data Manipulation using `pandas` (Friday, March 22, 2024)
+#### 1. Data Manipulation using `pandas` (Friday, Oct 4, 2024)
 * Introduction
 * Pandas dataframes as a data structure
 * Indexing and slicing data frames
@@ -38,18 +38,18 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-#### 2. More on `pandas` and Logistic regression (Tuesday, March 26, 2024)
+#### 2. More on `pandas` and Logistic regression (Friday, Oct 18, 2024)
 * More on `pandas` - Groupby operations
 * Binary classification algorithm: Logistic Regression
 * Underfitting and Overfitting to the training dataset; Model cross-validation 
 
-#### 3. A Gentle Introduction to Neural Networks (Tuesday, April 2, 2024)
+#### 3. A Gentle Introduction to Neural Networks (Friday, Oct 25, 2024)
 * Neural networks: Building the intuition of the architecture and the iterative learning process 
 * An exercise on implementing AND and OR gates using Perceptron by trial-and-error 
 * Multi-Layer Perception: Forward and Backward propagation
 * One-hot encoding for categorical features
 
-#### 4. Fine-tuning Neural Networks (Friday, April 5, 2024)
+#### 4. Fine-tuning Neural Networks (Friday, Nov 1, 2024)
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
@@ -59,18 +59,18 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 * Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, etc.
 * Application of the above concepts on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
 
-#### 5. Convolution Neural Networks (Tuesday, April 9, 2024)
+#### 5. Convolution Neural Networks (Friday, Nov 8, 2024)
 * Image preprocessing for neural networks
 * Feature extraction using convolution filters
 * Convolution Neural Network architecture (CNN)
 * Training a CNN model on CIFAR-10 dataset
 
-#### 6. Recurrent Neural Networks (Friday, April 12, 2024)
+#### 6. Recurrent Neural Networks (Friday, Nov 15, 2024)
 * Recurrent Neural Networks (RNN)
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
 
 
-#### 7. Transformer models (Tuesday, April 16, 2024)
+#### 7. Transformer models (Friday, Nov 22, 2024)
 * Transformer model architecture (used in models such as chatGPT)
 * Mini-project: Building an AI chatbot for HMC Helpdesk
 
