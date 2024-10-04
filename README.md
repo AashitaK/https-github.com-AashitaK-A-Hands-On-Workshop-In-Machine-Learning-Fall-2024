@@ -34,7 +34,7 @@ Please [download and install Anaconda](https://www.anaconda.com/) on your laptop
 * Detecting and filling missing values
 * Regular expressions for text mining
 
-You can run the notebook for this session either at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AashitaK/https-github.com-AashitaK-A-Hands-On-Workshop-In-Machine-Learning-Fall-2024/HEAD) or <a target="_blank" href="https://colab.research.google.com/github/AashitaK/A-Hands-On-Workshop-In-Machine-Learning-Spring-2024/blob/main/Session%201/Data%20Manipulation%20using%20pandas.ipynb">
+You can run the notebook for this session either at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AashitaK/https-github.com-AashitaK-A-Hands-On-Workshop-In-Machine-Learning-Fall-2024/HEAD?labpath=Session+1%2F1.+Data+Manipulation+using+pandas.ipynb) or <a target="_blank" href="https://colab.research.google.com/github/AashitaK/A-Hands-On-Workshop-In-Machine-Learning-Spring-2024/blob/main/Session%201/Data%20Manipulation%20using%20pandas.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
